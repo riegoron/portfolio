@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ron]
+# 👋 Hi, I'm Ron
 
 I'm a passionate software developer actively looking for job opportunities where I can grow and contribute to real-world projects. I enjoy building clean, user-friendly applications and writing efficient, maintainable code.
 
