@@ -25,7 +25,7 @@ I’m comfortable working with both frontend and backend technologies, and I lov
 
 ## 📫 Contact Me
 - Email: [riegorom@gmail.com]
-- LinkedIn: [linkedin.com/in/riegoron]
+- LinkedIn: (https://www.linkedin.com/in/riegoron)
 - Portfolio (optional): [your-portfolio-link]
 
 ---
